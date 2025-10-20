@@ -1,0 +1,16 @@
+<svg width="2048" height="631" viewBox="0 0 2048 631" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Vibo logo">
+  <title>Vibo</title>
+  <!-- Se Poppins não estiver instalada, cairá para as fontes do stack -->
+  <style>
+    .wordmark {
+      font-family: "Poppins", "Inter", "Segoe UI", "Helvetica Neue", Arial, sans-serif;
+      font-weight: 700; /* Bold */
+      fill: #6654FC;
+    }
+  </style>
+
+  <!-- Texto centralizado, escalável -->
+  <text class="wordmark" x="50%" y="50%" text-anchor="middle" dominant-baseline="central" font-size="520">
+    Vibo
+  </text>
+</svg>

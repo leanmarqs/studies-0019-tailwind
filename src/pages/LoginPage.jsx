@@ -69,7 +69,6 @@ function App() {
         >
           Esqueceu a senha?
         </p>
-        s
         <p className="text-gray-400 text-sm mt-20">
           Não tem uma conta?{" "}
           <span
@@ -79,7 +78,6 @@ function App() {
             Cadastre-se
           </span>
         </p>
-        s
       </div>
 
       {/* FOOTER */}
